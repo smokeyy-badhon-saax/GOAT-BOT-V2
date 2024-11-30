@@ -40,11 +40,11 @@
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100005193854879"
+      "61557409693409"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝐁𝐀𝐘𝐉𝐈𝐃-৬T৯ツ",
+  "nickNameBot": "smokey_badhon",
   "prefix": "?",
   "BaYjidapi": "https://bayjid-hd.onrender.com",
   "api": "",
